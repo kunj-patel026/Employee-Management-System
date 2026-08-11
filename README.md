@@ -1,8 +1,8 @@
-    # Employee Management System
+   # Employee Management System
 
 A professional console-based Employee Management System developed using Python.
 
-This project allows an administrator to manage employee records efficiently through a menu-driven interface.
+This project provides a simple and efficient way to manage employee records through a menu-driven command-line interface.
 
 ## Features
 
@@ -28,18 +28,18 @@ This project allows an administrator to manage employee records efficiently thro
 - Python
 - Object-Oriented Programming
 - File Handling
+- Exception Handling
+- Input Validation
 - Functions
 - Lists
 - Dictionaries
 - Sets
 - Lambda Functions
-- Exception Handling
-- Input Validation
 
 ## Project Structure
 
 ```text
-Employee_Management_System/
+Employee-Management-System/
 │
 ├── main.py
 ├── employee.py
