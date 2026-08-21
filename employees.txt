@@ -1,8 +1,8 @@
 101|Kunj Patel|24|MCA|85000.0|Male|Kunjp.2610@gmail.com|7046433577|25-08-2026
 102|Rushi Raval|22|Computer Science|50000.0|Male|Raval@99gmail.com|8469564677|21-8-2025
 104|Divyam Mahant|22|IT|40000.0|Male|Divyammant@gmail.com|9485555622|23-9-2025
-103|Kenil Patel|20|ITI|60000.0||||
-106|Shubham Patel|30|BCA|25000.0||||
+103|Kenil Patel|20|ITI|60000.0|Male|kenilp.5410@gmail.com|9426880906|20-9-2020
+106|Shubham Patel|30|BCA|25000.0|Male|shub@4848gmail.com|9485526293|8-8-2023
 107|Rohan Patel|22|IT|40000.0||||
 108|Riya Patel|23|Cyber AI|40000.0||||
 109|Bansri Patel|23|MCA|50000.0|Female|bansri123@gmail.com|7045688511|20-2-2026
